@@ -297,6 +297,7 @@ section.your-active-class .landing__container::after {
   .grid-container {
     display: block;
     text-align: center;
+      place-items: center;
   }
 
   .secContent {
