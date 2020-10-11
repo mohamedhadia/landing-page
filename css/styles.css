@@ -12,6 +12,13 @@
 html {
   scroll-behavior: smooth;
 }
+
+         ::selection {
+  background-color: #23ce6b;
+      color: white;
+ }   
+     
+
 body {
   background: #f3eff5;
   margin: 0;
