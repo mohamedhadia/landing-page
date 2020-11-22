@@ -1,4 +1,6 @@
 # Landing Page Project
+# live version 
+https://landing-page-blush.vercel.app/
 
 ## Table of Contents
 
